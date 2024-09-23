@@ -1,5 +1,5 @@
 <?php
-$servidor = "localhost"; // o 127.0.0.1
+$servidor = "localhost";
 $user = "root";
 $password = "";
 $database = "Base_de_mati";
